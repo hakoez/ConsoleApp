@@ -57,7 +57,10 @@
     <Compile Include="algo5.cs" />
     <Compile Include="algo53.cs" />
     <Compile Include="algo6.cs" />
+    <Compile Include="algo64.cs" />
+    <Compile Include="algo66.cs" />
     <Compile Include="algo7.cs" />
+    <Compile Include="algo71.cs" />
     <Compile Include="algo8.cs" />
     <Compile Include="algo9.cs" />
     <Compile Include="main.cs" />
