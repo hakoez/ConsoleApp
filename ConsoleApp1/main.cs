@@ -11,7 +11,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Algo39.Coz();
+            Algo53.Coz();
             Console.ReadKey();
         }
     }

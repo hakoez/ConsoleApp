@@ -52,7 +52,10 @@
     <Compile Include="algo38.cs" />
     <Compile Include="algo39.cs" />
     <Compile Include="algo4.cs" />
+    <Compile Include="algo40.cs" />
+    <Compile Include="algo45.cs" />
     <Compile Include="algo5.cs" />
+    <Compile Include="algo53.cs" />
     <Compile Include="algo6.cs" />
     <Compile Include="algo7.cs" />
     <Compile Include="algo8.cs" />
